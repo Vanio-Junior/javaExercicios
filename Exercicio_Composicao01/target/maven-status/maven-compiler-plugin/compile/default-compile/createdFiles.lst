@@ -1,0 +1,5 @@
+entities\Worker.class
+program\exercicio_composicao01\Exercicio_Composicao01.class
+entities\Department.class
+entities\enums\WorkerLevel.class
+entities\HourContract.class
